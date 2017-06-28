@@ -8,7 +8,7 @@ not trusting that something might not be there
 like treasure chests filled with apathy  
 or cookie jars – or matrimony  "
 ---
-![An old lawn chair in the woods, decrepit and covered in leaves]({{site.baseurl}}/assets/images/lawn-chair-1148974.jpg)
+{% include figure image_path="/assets/images/lawn-chair-1148974.jpg" alt="An old lawn chair in the woods, decrepit and covered in leaves" %}
 
 Sometimes I look behind the vinyl chairs before I sit down
 
