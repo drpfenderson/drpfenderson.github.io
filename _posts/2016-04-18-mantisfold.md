@@ -2,6 +2,10 @@
 published: true
 title: man(t)i(s)fold
 category: poetry
+excerpt: "manifold  
+mantisfold bowing head in  
+pra(e)yer  
+dining on our mind treat-tasties like toffee bites and peppermint schnapps on Christ-mass morn"
 ---
 ![Praying mantis sitting on a leaf against a green background]({{site.baseurl}}/assets/images/praying-1170776.jpg)
 

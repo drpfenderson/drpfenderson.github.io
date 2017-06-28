@@ -2,6 +2,9 @@
 published: true
 title: And the Sign shall be a Mark shall be a Word shall be a Whisper
 category: poetry
+excerpt: "This story telling me is foReign,  
+hidden on the stones of our fur-fathers cast to tell our fortune –  
+only to have the shattered words thrown back"
 ---
 ![Wooden runes sitting scattered among grass]({{site.baseurl}}/assets/images/runes-928569.jpg)
 

@@ -1,8 +1,12 @@
 ---
 published: true
-tags: poem
 category: poetry
 title: '?print(‘Sometimes’);'
+excerpt: "Sometimes I look behind the vinyl chairs before I sit down
+
+not trusting that something might not be there  
+like treasure chests filled with apathy  
+or cookie jars – or matrimony  "
 ---
 ![An old lawn chair in the woods, decrepit and covered in leaves]({{site.baseurl}}/assets/images/lawn-chair-1148974.jpg)
 
