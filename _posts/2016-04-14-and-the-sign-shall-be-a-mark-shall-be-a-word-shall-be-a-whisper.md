@@ -6,7 +6,7 @@ excerpt: "This story telling me is foReign,
 hidden on the stones of our fur-fathers cast to tell our fortune –  
 only to have the shattered words thrown back"
 ---
-![Wooden runes sitting scattered among grass]({{site.baseurl}}/assets/images/runes-928569.jpg)
+{% include figure image_path="/assets/images/runes-928569.jpg" alt="Wooden runes sitting scattered among grass" %}
 
 This story telling me is foReign,  
 hidden on the stones of our fur-fathers cast to tell our fortune –  
