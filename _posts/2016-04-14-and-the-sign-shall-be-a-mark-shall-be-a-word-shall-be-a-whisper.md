@@ -2,6 +2,9 @@
 published: true
 title: And the Sign shall be a Mark shall be a Word shall be a Whisper
 category: poetry
+header:
+  image: /assets/images/runes-928569.jpg
+  description: "Wooden runes sitting scattered among grass"
 ---
 ![Wooden runes sitting scattered among grass]({{site.baseurl}}/assets/images/runes-928569.jpg)
 

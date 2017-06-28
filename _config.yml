@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Merlyn Alexander"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
+  bio              : "Creamed Rural Zen Lynx. Dreamer, designer, cyborg, shaman, or something."
   location         : "Portland, OR"
   email            : "me@merlynalexander.name"
   uri              :
@@ -87,12 +87,12 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "drpfenderson"
   foursquare       :
-  github           :
+  github           : "drpfenderson"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "drpfenderson"
   lastfm           : "drpfenderson"
   linkedin         :
   pinterest        :
@@ -240,7 +240,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: # true
       share: false
       related: true
