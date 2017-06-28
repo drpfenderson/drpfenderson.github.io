@@ -6,14 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en"
-title                    : "Site Title"
+locale                   : "en-US"
+title                    : "WordsForFree"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Merlyn Alexander"
+description              : "Cerebral vibrations from the lunatic fringe."
+url                      : "https://www.merlynalexander.name" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "drpfenderson/drpfenderson.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -77,11 +77,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Merlyn Alexander"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  location         : "Portland, OR"
+  email            : "me@merlynalexander.name"
   uri              :
   bitbucket        :
   codepen          :
@@ -93,7 +93,7 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  lastfm           :
+  lastfm           : "drpfenderson"
   linkedin         :
   pinterest        :
   soundcloud       :
@@ -242,5 +242,5 @@ defaults:
       author_profile: true
       read_time: true
       comments: # true
-      share: true
+      share: false
       related: true
