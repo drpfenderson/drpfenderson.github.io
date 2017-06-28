@@ -1,8 +1,6 @@
 ---
 published: true
-tags: poem
 title: man(t)i(s)fold
-excerpt_separator: <!--more-->
 category: poetry
 ---
 ![Praying mantis sitting on a leaf against a green background]({{site.baseurl}}/assets/images/praying-1170776.jpg)
