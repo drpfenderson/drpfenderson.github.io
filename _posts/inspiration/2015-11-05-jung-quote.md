@@ -1,6 +1,6 @@
 ---
 published: true
-category: quotes
+category: inspiration
 ---
 >There was scarcely any sound save the melancholy cry of a bird of prey. This was the stillness of the eternal beginning, the world as it had always been, in the state of non-being; for until then no one had been present to know that it was this world. I walked away from my companions until I had put them out of sight, and savoured the feeling of being entirely alone. There I was now, the first human being to recognize that this was the world, but who did not know that in this moment he had first really created it.
 
