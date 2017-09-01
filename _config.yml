@@ -48,7 +48,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :
+google_site_verification : "14gvuO8GcYjm5Cg54u5mczuSxQc-005CbN-FX5Mxnic"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -70,18 +70,16 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : google-universal # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "UA-101866427-1"
 
 
 # Site Author
 author:
   name             : "Merlyn Alexander"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Creamed Rural Zen Lynx.
-
-  Dreamer, designer, cyborg. Or something. Transhumanist, shaman, avid comic book reader, Ubuntu user, gadget freak, and reality hacker. Contains a serious love of magic, writing, politics of technology and mental liberation."
+  bio              : "Dreamer, designer, cyborg. Or something.<br/><br/>Transhumanist, shaman, avid comic book reader, Ubuntu user, gadget freak, and reality hacker. Contains a serious love of magic, writing, politics of technology and mental liberation."
   location         : "Portland, OR"
   email            : "me@merlynalexander.name"
   uri              :
@@ -175,8 +173,8 @@ sass:
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
-paginate_path: /recent/page:num/
-timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+paginate_path: /page:num/
+timezone: "	America/Los_Angeles" # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
