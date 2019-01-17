@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
 layout: default
 ---
 <div id="main" role="main">
@@ -37,4 +38,13 @@ layout: default
 {% endfor %}
 </div>
 
+=======
+layout: archive
+---
+
+{{ content }}
+
+<div class="entries-{{ page.entries_layout }}">
+  {% include posts-category.html taxonomy=page.taxonomy type=page.entries_layout %}
+>>>>>>> upstream/master
 </div>
