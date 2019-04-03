@@ -10,7 +10,7 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-# theme                  : "minimal-mistakes-jekyll"
+theme                    : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
@@ -108,13 +108,13 @@ analytics:
 author:
   name             : "Merlyn Alexander"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "Dreamer, designer, cyborg.<br />Or something.<br /><br />Transhumanist, shaman, avid comic book reader, Ubuntu user, gadget freak, and reality hacker. Contains a serious love of magic, writing, politics of technology and mental liberation. "
+  location         : "Portland, OR"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      url: mailto:me@merlynalexander.name
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
