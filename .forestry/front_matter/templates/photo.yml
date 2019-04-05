@@ -9,3 +9,5 @@ fields:
   name: category
   label: category
   default: photos
+pages:
+- _posts/photos/this-is-a-test-photo.md
