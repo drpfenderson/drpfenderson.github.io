@@ -8,3 +8,4 @@ fields:
 - type: text
   name: category
   label: category
+  default: photos
