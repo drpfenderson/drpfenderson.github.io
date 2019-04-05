@@ -10,4 +10,4 @@ fields:
   label: category
   default: photos
 pages:
-- _posts/photos/this-is-a-test-photo.md
+- _posts/photos/2019-04-05-this-is-a-test-photo.md
