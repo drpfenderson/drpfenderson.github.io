@@ -6,3 +6,33 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+
+
+/* ==========================================================================
+   Custom CSS
+   ========================================================================== */
+
+/*
+   default-slim layout options
+   ========================================================================== */
+
+    /* Hide Header and footer */
+    .layout--portfolio.slim .masthead, .layout--portfolio.slim .page__footer {
+        display: none;
+    }
+  
+    /* Gimme them sexy fonts */
+    .layout--portfolio.slim p {
+        
+    }
+  
+  
+  /*
+    Archive something?
+  
+    */
+    .archive a.excerpt_permalink {
+       color: #52adc8;
+     }
+  
