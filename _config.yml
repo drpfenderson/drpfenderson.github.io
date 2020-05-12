@@ -69,9 +69,9 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "drpfenderson"
 facebook:
-  username               :
+  username               : "drpfenderson"
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -79,14 +79,14 @@ og_image                 : # Open Graph/Twitter default site image
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
+  name                   : "Merlyn Cruz" # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
 # Analytics
 analytics:
-  provider               : google-universal # false (default), "google", "google-universal", "custom"
+  provider               : false # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "UA-101866427-1"
+    tracking_id          : # "UA-101866427-1"
     anonymize_ip         : # true, false (default)
 
 
@@ -96,39 +96,39 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Dreamer, designer, cyborg.<br />Or something.<br /><br />Transhumanist, shaman, avid comic book reader, Ubuntu user, gadget freak, and reality hacker. Contains a serious love of magic, writing, politics of technology and mental liberation. "
   location         : "Portland, OR"
-  email            :
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:me@merlynalexander.name
+      url: "mailto:me@merlynalexander.name"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/drpfenderson"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://facebook.com/drpfenderson"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/drpfenderson"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://instagram.com/drpfenderson"
 
 # Site Footer
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: "https://twitter.com/drpfenderson"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: "https://facebook.com/drpfenderson"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/drpfenderson"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -137,7 +137,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://instagram.com/drpfenderson"
 
 
 # Reading Files
