@@ -80,8 +80,12 @@ og_image                 : # Open Graph/Twitter default site image
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : "Merlyn Cruz" # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
-
+  links:
+    - "https://twitter.com/drpfenderson"
+    - "https://facebook.com/drpfenderson"
+    - "https://instagram.com/drpfenderson"
+    - "https://www.linkedin.com/in/Merlyn-Cruz"
+    - "https://github.com/drpfenderson"
 # Analytics
 analytics:
   provider               : false # false (default), "google", "google-universal", "custom"
