@@ -16,15 +16,11 @@
 /*
    default-slim layout options
    ========================================================================== */
-
-    /* Hide Header and footer */
-    .layout--portfolio.slim .masthead, .layout--portfolio.slim .page__footer {
-        display: none;
-    }
   
     /* Gimme them sexy fonts */
-    .layout--portfolio.slim p {
-        
+    .layout--portfolio p {
+      font-family: 'Playfair Display', serif;
+      font-size: 1.4em;
     }
   
   
