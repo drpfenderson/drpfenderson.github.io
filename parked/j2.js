@@ -22,7 +22,7 @@ function goFullScreen() {
 }
 
 function goFullScreenYoutube() {
-    location.href='https://www.youtube.com/redirect?q=https://merlynalexander.name/parking';
+    location.href='https://www.youtube.com/redirect?q=https://merlynalexander.name/parked/';
     setTimeout(() => { hide("overlayfullscreen") }, 5000);
 }
 function showLoader() {
