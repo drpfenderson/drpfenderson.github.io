@@ -262,3 +262,9 @@ img {
   background-color: #4CAF50;
   color: white;
 }
+
+.centered {
+  text-align: center;
+  margin: auto;
+  display: inline-block;
+}
