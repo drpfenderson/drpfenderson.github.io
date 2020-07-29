@@ -54,17 +54,18 @@ button {
   margin-bottom: 2em;
 }
 
-.button-basic {
+.button-fullscreen {
 	background-color: black;
 	border-color: white;
 	border: 1px solid white;
 	color: white;
-	padding: 0.55em 0.55em;
+  padding: 0.7em 0.7em;
+  margin-top: 30px;
 	text-align: center;
 	text-decoration: none;
-	font-size: 1em;
+	font-size: 2em;
 	display: inline-block;
-	width: 20%; /* to test the test-align property */
+	width: 30%; /* to test the test-align property */
 }
 .lds-spinner {
   color: official;
@@ -143,10 +144,6 @@ button {
   100% {
     opacity: 0;
   }
-}
-
-.txt:hover {
-  /*text-decoration:underline; */
 }
 
 input[type=text], select {

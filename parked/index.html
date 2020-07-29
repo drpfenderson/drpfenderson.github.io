@@ -1,12 +1,12 @@
 
 <!DOCTYPE html>
 <html>
-<title>ParkedTheater - Watch While You Park!</title>
+<title>ParkingTime - Watch While You Park!</title>
 <head>
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<link rel="stylesheet" href="c.css">
+<link rel="stylesheet" href="assets/css/index.css">
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
@@ -34,84 +34,86 @@ body {font-family: Arial, Helvetica, sans-serif;}
 </style>
 </head>
 <body>
-
+  <div id="overlayfull" style="display:none;">
+    <center><button class="button-fullscreen" onMouseDown="goFullScreen();">GO FULLSCREEN</button></center>
+    </div>
 <div>
 	<!--DEFAULT VIEW-->
   <a href="http://www.hulu.com/">
     <figure onMouseUp="return showLoader()">
-      <img src="hulu.jpg">
+      <img src="assets/images/hulu.jpg">
     </figure>
   </a>
   <a href="http://pluto.tv">
     <figure onMouseUp="return showLoader()">
-      <img src="pluto.gif">
+      <img src="assets/images/pluto.gif">
     </figure>
   </a>
   <a href="https://tubitv.com/">
     <figure onMouseUp="return showLoader()">
-      <img src="tubitv.gif">
+      <img src="assets/images/tubitv.gif">
     </figure>
   </a>
   <a href="https://hbogo.com/">
     <figure onMouseUp="return showLoader()">
-      <img src="hbogo.gif">
+      <img src="assets/images/hbogo.gif">
     </figure>
   </a>
   <a href="https://netflix.com/">
     <figure onMouseUp="return showLoader()">
-      <img src="netflix.jpg">
+      <img src="assets/images/netflix.jpg">
     </figure>
   </a>
   <a href="https://www.espn.com/watch/">
     <figure onMouseUp="return showLoader()">
-      <img src="espn.gif">
+      <img src="assets/images/espn.gif">
     </figure>
   </a>
   <a href="http://www.twitch.com">
     <figure onMouseUp="return showLoader()">
-      <img src="twitch.gif">
+      <img src="assets/images/twitch.gif">
     </figure>
   </a>
   <a href="https://www.cbs.com/all-access/">
     <figure onMouseUp="return showLoader()">
-      <img src="cbs_all_access.gif">
+      <img src="assets/images/cbs_all_access.gif">
     </figure>
   </a>
   <a href="https://fubo.tv/">
     <figure onMouseUp="return showLoader()">
-      <img src="fubo.gif">
+      <img src="assets/images/fubo.gif">
     </figure>
   </a>
   <a href="http://www.youtube.com">
     <figure onMouseUp="return showLoader()">
-      <img src="youtube.jpg">
+      <img src="assets/images/youtube.jpg">
     </figure>
   </a>
   <a href="http://www.disneyplus.com">
     <figure onMouseUp="return showLoader()">
-      <img src="disney.jpg">
+      <img src="assets/images/disney.jpg">
     </figure>
   </a>
   <a href="https://app.plex.tv">
     <figure onMouseUp="return showLoader()">
-      <img src="plex.gif">
+      <img src="assets/images/plex.gif">
     </figure>
   </a>
 	</div>
   <div class="centered">
   <a onClick="showOverlay()">
     <figure>
-      <img width="100%" src="chromium.jpg">
+      <img width="100%" src="assets/images/chromium.jpg">
     </figure>
   </a>
   <a href="https://www.reddit.com/r/teslamotors">
     <figure onMouseUp="return showLoader()">
-      <img width="100%" src="reddit.jpg">
+      <img width="100%" src="assets/images/reddit.jpg">
     </figure>
   </a>
   <a href="http://maps.google.com">
     <figure onMouseUp="return showLoader()">
-      <img width="100%" src="google_maps.gif">
+      <img width="100%" src="assets/images/google_maps.gif">
     </figure>
   </a>
   </div>
@@ -124,17 +126,12 @@ body {font-family: Arial, Helvetica, sans-serif;}
 <h3 id="fullscreen" ><span class="txt"><p><input type="checkbox" onClick="document.cookie='noshow';">Don't show this again.</p>NOTE: Car must be in PARK</span></h2>
 </div>
 
-<div id="overlayfull" style="display:none;">
-<center><button class="button-basic" onMouseDown="goFullScreen();">GO FULLSCREEN</button></center>
-</div>
-
-
 <div id="loader">
 <div class="lds-spinner"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div>
 <h2 style="color: black;">Please wait...</h2>
 </div>
 
-<script type="text/javascript" src="j2.js"></script>
+<script type="text/javascript" src="assets/js/index.js"></script>
 
 </body>
 </html>
