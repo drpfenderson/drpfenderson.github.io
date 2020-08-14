@@ -1,0 +1,5 @@
+---
+layout: single-nobread
+breadcrumbs: false
+---
+<p class="index-bio">Hello! I&#x27;m Merlyn; Dreamer, designer, cyborg. Or something.<br><br>Currently running <a href="https://www.bespokedigital.design/">a digital design firm</a> in Portland, OR, USA. Also, <a href="blog/">blogging </a>about random stuff, writing <a href="categories/#poetry">poetry</a>, collaborating on <a href="https://www.instagram.com/peterglanting/">comics</a>, and helping fight linkrot.<br><br>You can find me on <a href="https://github.com/drpfenderson">GitHub</a>, <a href="https://www.instagram.com/drpfenderson/">Instagram</a>, <a href="https://www.linkedin.com/in/merlyn-cruz/">LinkedIn</a>, <a href="https://www.facebook.com/drpfenderson">Facebook</a>, and a few other places.<br><br><a href="assets/pdf/Merlyn-Cruz-Resume.pdf">Here</a> is my resume, if you&#x27;re interested.<br></p>

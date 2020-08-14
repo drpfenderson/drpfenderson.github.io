@@ -4,4 +4,20 @@
 
 @charset "utf-8";
 
-@import "minimal-mistakes";
+// Custom CSS
+.author__bio a {
+    text-decoration: underline!important;
+}
+
+.archive__item-title.no_toc {
+    margin-top: 0px;
+}
+
+.archive__item {
+    margin-bottom: 30px;
+}
+// End Custom CSS
+
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
